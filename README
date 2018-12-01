@@ -1,2 +1,10 @@
 PROJET PYTHON
 SPACE INVADERS
+
+
+structure:
+ main.py (file) //fichier principal
+ ressources (dir) // Images et Sons
+ classes(dir) //Les modèles vaiseaux, vie, tire ...
+ screens(dir) // Ecran du jeu
+ tests(dir) // les petits essais
